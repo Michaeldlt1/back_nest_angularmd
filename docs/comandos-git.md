@@ -20,8 +20,8 @@ git remote -v
 ```
 
 git add .
-git commit -m "proyecto base "nombre del cambio"
-git put origin master
+git commit -m "proyecto base"
+git push origin main
 
 ```
 
@@ -29,7 +29,7 @@ git put origin master
 
 - para forzar
 
-git push -f origin master
+git push -f origin main
 
 ```
 
